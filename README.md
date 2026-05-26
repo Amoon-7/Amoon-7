@@ -55,14 +55,6 @@ Stratégies RL pour "Save Jessica" (**meilleur score de la classe**) · Agent po
 ### 📡 Stage — LAB d'Astrophysique de Bordeaux
 Développement embarqué bas niveau (Linux, FPGA Intel Agilex 7) pour l'instrument ALMA.
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Amoon-7&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amoon-7&layout=compact&theme=default&hide_border=true"/>
-</p>
 
 ---
 
