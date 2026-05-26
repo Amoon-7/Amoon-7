@@ -50,7 +50,7 @@ Gestion des expériences via Hydra/MLflow.
 Système RAG pour centraliser les connaissances et accélérer le diagnostic des incidents.
 
 ### 🎮 Reinforcement Learning
-Stratégies RL pour "Save Jessica" (**meilleur score de la classe**) · Agent pour "Simple Tag" (**top 5 du leaderboard**).
+Stratégies RL pour "Save Jessica" · Agent pour "Simple Tag".
 
 ### 📡 Stage — LAB d'Astrophysique de Bordeaux
 Développement embarqué bas niveau (Linux, FPGA Intel Agilex 7) pour l'instrument ALMA.
