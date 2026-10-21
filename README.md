@@ -9,7 +9,7 @@
 
 ---
 
-AI engineering student :°
+AI engineer - Data scientist :°
 ---
 
 ## Stack technique
